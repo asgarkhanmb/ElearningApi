@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "g0HT7dn5o6xqCKsdKTvqCV+lwi+ZF9EOVwKf1pE2bHs=",
+  "Source": "ElearningApi",
+  "BasePath": "_content/ElearningApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ElearningApi\\wwwroot",
+      "Source": "ElearningApi",
+      "ContentRoot": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\ElearningApi\\ElearningApi\\wwwroot\\",
+      "BasePath": "_content/ElearningApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\ElearningApi\\ElearningApi\\wwwroot\\images\\01abbfa0-604d-4024-911f-a1ef07e5ba4d-a.png",
+      "SourceId": "ElearningApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\ElearningApi\\ElearningApi\\wwwroot\\",
+      "BasePath": "_content/ElearningApi",
+      "RelativePath": "images/01abbfa0-604d-4024-911f-a1ef07e5ba4d-a.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\01abbfa0-604d-4024-911f-a1ef07e5ba4d-a.png"
+    },
+    {
+      "Identity": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\ElearningApi\\ElearningApi\\wwwroot\\images\\7f650074-8084-4dbc-9304-af0ad278a2b9-1.webp",
+      "SourceId": "ElearningApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\ElearningApi\\ElearningApi\\wwwroot\\",
+      "BasePath": "_content/ElearningApi",
+      "RelativePath": "images/7f650074-8084-4dbc-9304-af0ad278a2b9-1.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7f650074-8084-4dbc-9304-af0ad278a2b9-1.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\ElearningApi\\ElearningApi\\wwwroot\\images\\b2f122a4-6099-4265-b364-ad938eb7d7dd-sss.jpeg",
+      "SourceId": "ElearningApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\ElearningApi\\ElearningApi\\wwwroot\\",
+      "BasePath": "_content/ElearningApi",
+      "RelativePath": "images/b2f122a4-6099-4265-b364-ad938eb7d7dd-sss.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b2f122a4-6099-4265-b364-ad938eb7d7dd-sss.jpeg"
+    }
+  ]
+}

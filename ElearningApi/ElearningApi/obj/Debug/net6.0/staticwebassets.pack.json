@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\ElearningApi\\ElearningApi\\wwwroot\\images\\01abbfa0-604d-4024-911f-a1ef07e5ba4d-a.png",
+      "PackagePath": "staticwebassets\\images\\01abbfa0-604d-4024-911f-a1ef07e5ba4d-a.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\ElearningApi\\ElearningApi\\wwwroot\\images\\7f650074-8084-4dbc-9304-af0ad278a2b9-1.webp",
+      "PackagePath": "staticwebassets\\images\\7f650074-8084-4dbc-9304-af0ad278a2b9-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\ElearningApi\\ElearningApi\\wwwroot\\images\\b2f122a4-6099-4265-b364-ad938eb7d7dd-sss.jpeg",
+      "PackagePath": "staticwebassets\\images\\b2f122a4-6099-4265-b364-ad938eb7d7dd-sss.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ElearningApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ElearningApi.props",
+      "PackagePath": "build\\ElearningApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ElearningApi.props",
+      "PackagePath": "buildMultiTargeting\\ElearningApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ElearningApi.props",
+      "PackagePath": "buildTransitive\\ElearningApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
